@@ -36,7 +36,7 @@ def HOME():
         addDir('Pinoy Recipes','http://www.pinoy-ako.ws/pinoy-recipes/',6,'')
         addDir('Viral Videos','http://www.pinoy-ako.ws/viral/',6,'')
         addDir('Trending Videos','http://www.pinoy-ako.ws/trending/',6,'')
-        ###addDir('TV5 Old Shows','http://www.pinoy-ako.info/tv-show-replay/94-tv-guide/59771-watch-old-tv5-kapatid-tv-shows.html',2,'http://img29.imageshack.us/img29/2499/tv5tvshows.jpg')
+        ###addDir('TV5 Old Shows','http://www.pinoy-ako.info/tv-show-replay1/94-tv-guide/59771-watch-old-tv5-kapatid-tv-shows.html',2,'http://img29.imageshack.us/img29/2499/tv5tvshows.jpg')
         ###addDir('TV Specials','http://www.pinoy-ako.info/tv-show-replay/tv-specials.html',5,'http://img857.imageshack.us/img857/8424/tvspecials.jpg')
         ###addLink('ABS-CBN live','rtmp://tko.og.abscbn.streamguys.com:1935/abs/_definst_/abs live=true',11,'')
         ###addLink('GMA live','rtmp://live.iguide.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=630&height=360&channel=44090&autoplay=true token=#e87JDUJD264YED687 swfVfy=1 live=1 timeout=15',12,'')
